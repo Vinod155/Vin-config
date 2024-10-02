@@ -4,7 +4,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "message from configuration from Prod updated mq APIs"
+  message: "message from configuration from Prod updated mq  1 APIs"
   contactDetails:
     name: "vin- Product owner"
     email: "{cipher}be8c4bfcb934d573fc7170a81939e51d4534a91ce89cbf04eac45c19023649f213148608012468bda75775c9ed8a6c10"
