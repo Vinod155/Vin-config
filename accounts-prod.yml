@@ -7,7 +7,7 @@ accounts:
   message: "message from configuration from Prod APIs"
   contactDetails:
     name: "vin- Product owner"
-    email: "be8c4bfcb934d573fc7170a81939e51d4534a91ce89cbf04eac45c19023649f213148608012468bda75775c9ed8a6c10"
+    email: "{cipher}be8c4bfcb934d573fc7170a81939e51d4534a91ce89cbf04eac45c19023649f213148608012468bda75775c9ed8a6c10"
   onCallSupport:
     -(777)555-12345
     -(777)555-12345
