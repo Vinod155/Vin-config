@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "message from configuration from QA APIs"
+  contactDetails:
+    name: "vinnie-QA Lead"
+    email: "vinqa@vinnie.com"
+  onCallSupport:
+    -(666)555-12345
+    -(666)555-12345

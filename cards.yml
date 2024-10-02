@@ -1,0 +1,13 @@
+
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "message from configuration"
+  contactDetails:
+    name: "vinnie th poo"
+    email: "vin@vinnie.com"
+  onCallSupport:
+    -(555)555-12345

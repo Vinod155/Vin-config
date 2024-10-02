@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "message from configuration from Prod APIs"
+  contactDetails:
+    name: "vin- Product owner"
+    email: "vinqa@vinnie.com"
+  onCallSupport:
+    -(777)555-12345
+    -(777)555-12345
